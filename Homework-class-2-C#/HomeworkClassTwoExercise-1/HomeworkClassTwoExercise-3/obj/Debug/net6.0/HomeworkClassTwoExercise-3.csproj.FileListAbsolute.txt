@@ -1,0 +1,15 @@
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\bin\Debug\net6.0\HomeworkClassTwoExercise-3.exe
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\bin\Debug\net6.0\HomeworkClassTwoExercise-3.deps.json
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\bin\Debug\net6.0\HomeworkClassTwoExercise-3.runtimeconfig.json
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\bin\Debug\net6.0\HomeworkClassTwoExercise-3.dll
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\bin\Debug\net6.0\HomeworkClassTwoExercise-3.pdb
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\obj\Debug\net6.0\HomeworkClassTwoExercise-3.csproj.AssemblyReference.cache
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\obj\Debug\net6.0\HomeworkClassTwoExercise-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\obj\Debug\net6.0\HomeworkClassTwoExercise-3.AssemblyInfoInputs.cache
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\obj\Debug\net6.0\HomeworkClassTwoExercise-3.AssemblyInfo.cs
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\obj\Debug\net6.0\HomeworkClassTwoExercise-3.csproj.CoreCompileInputs.cache
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\obj\Debug\net6.0\HomeworkClassTwoExercise-3.dll
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\obj\Debug\net6.0\refint\HomeworkClassTwoExercise-3.dll
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\obj\Debug\net6.0\HomeworkClassTwoExercise-3.pdb
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\obj\Debug\net6.0\HomeworkClassTwoExercise-3.genruntimeconfig.cache
+C:\Users\Kco\Desktop\SEAVUS\c# basic\class2\Homework-class-2-C#\HomeworkClassTwoExercise-1\HomeworkClassTwoExercise-3\obj\Debug\net6.0\ref\HomeworkClassTwoExercise-3.dll
