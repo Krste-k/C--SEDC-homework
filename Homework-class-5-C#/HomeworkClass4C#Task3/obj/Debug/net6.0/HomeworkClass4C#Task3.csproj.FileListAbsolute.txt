@@ -1,0 +1,15 @@
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\bin\Debug\net6.0\HomeworkClass4C#Task3.exe
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\bin\Debug\net6.0\HomeworkClass4C#Task3.deps.json
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\bin\Debug\net6.0\HomeworkClass4C#Task3.runtimeconfig.json
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\bin\Debug\net6.0\HomeworkClass4C#Task3.dll
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\bin\Debug\net6.0\HomeworkClass4C#Task3.pdb
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\obj\Debug\net6.0\HomeworkClass4C#Task3.csproj.AssemblyReference.cache
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\obj\Debug\net6.0\HomeworkClass4C#Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\obj\Debug\net6.0\HomeworkClass4C#Task3.AssemblyInfoInputs.cache
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\obj\Debug\net6.0\HomeworkClass4C#Task3.AssemblyInfo.cs
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\obj\Debug\net6.0\HomeworkClass4C#Task3.csproj.CoreCompileInputs.cache
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\obj\Debug\net6.0\HomeworkClass4C#Task3.dll
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\obj\Debug\net6.0\refint\HomeworkClass4C#Task3.dll
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\obj\Debug\net6.0\HomeworkClass4C#Task3.pdb
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\obj\Debug\net6.0\HomeworkClass4C#Task3.genruntimeconfig.cache
+C:\Users\Kco\Desktop\Aplication-C#\HomeworkClass4C#Task1\HomeworkClass4C#Task3\obj\Debug\net6.0\ref\HomeworkClass4C#Task3.dll
