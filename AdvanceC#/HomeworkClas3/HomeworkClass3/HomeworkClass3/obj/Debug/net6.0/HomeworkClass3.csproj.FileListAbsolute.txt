@@ -1,0 +1,15 @@
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\bin\Debug\net6.0\HomeworkClass3.exe
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\bin\Debug\net6.0\HomeworkClass3.deps.json
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\bin\Debug\net6.0\HomeworkClass3.runtimeconfig.json
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\bin\Debug\net6.0\HomeworkClass3.dll
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\bin\Debug\net6.0\HomeworkClass3.pdb
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\obj\Debug\net6.0\HomeworkClass3.csproj.AssemblyReference.cache
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\obj\Debug\net6.0\HomeworkClass3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\obj\Debug\net6.0\HomeworkClass3.AssemblyInfoInputs.cache
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\obj\Debug\net6.0\HomeworkClass3.AssemblyInfo.cs
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\obj\Debug\net6.0\HomeworkClass3.csproj.CoreCompileInputs.cache
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\obj\Debug\net6.0\HomeworkClass3.dll
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\obj\Debug\net6.0\refint\HomeworkClass3.dll
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\obj\Debug\net6.0\HomeworkClass3.pdb
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\obj\Debug\net6.0\HomeworkClass3.genruntimeconfig.cache
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClas3\HomeworkClass3\HomeworkClass3\obj\Debug\net6.0\ref\HomeworkClass3.dll
