@@ -1,0 +1,15 @@
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\obj\Debug\net6.0\HomeworkClas2Task2.csproj.AssemblyReference.cache
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\obj\Debug\net6.0\HomeworkClas2Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\obj\Debug\net6.0\HomeworkClas2Task2.AssemblyInfoInputs.cache
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\obj\Debug\net6.0\HomeworkClas2Task2.AssemblyInfo.cs
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\obj\Debug\net6.0\HomeworkClas2Task2.csproj.CoreCompileInputs.cache
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\bin\Debug\net6.0\HomeworkClas2Task2.exe
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\bin\Debug\net6.0\HomeworkClas2Task2.deps.json
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\bin\Debug\net6.0\HomeworkClas2Task2.runtimeconfig.json
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\bin\Debug\net6.0\HomeworkClas2Task2.dll
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\bin\Debug\net6.0\HomeworkClas2Task2.pdb
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\obj\Debug\net6.0\HomeworkClas2Task2.dll
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\obj\Debug\net6.0\refint\HomeworkClas2Task2.dll
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\obj\Debug\net6.0\HomeworkClas2Task2.pdb
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\obj\Debug\net6.0\HomeworkClas2Task2.genruntimeconfig.cache
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass2Task2\HomeworkClas2Task2\HomeworkClas2Task2\obj\Debug\net6.0\ref\HomeworkClas2Task2.dll
