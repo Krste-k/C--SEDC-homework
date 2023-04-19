@@ -1,0 +1,5 @@
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass4\HomeworkClas4\HomeworkClas4\obj\Debug\net6.0\HomeworkClas4.csproj.AssemblyReference.cache
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass4\HomeworkClas4\HomeworkClas4\obj\Debug\net6.0\HomeworkClas4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass4\HomeworkClas4\HomeworkClas4\obj\Debug\net6.0\HomeworkClas4.AssemblyInfoInputs.cache
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass4\HomeworkClas4\HomeworkClas4\obj\Debug\net6.0\HomeworkClas4.AssemblyInfo.cs
+C:\Users\Kco\Desktop\C#-github\C--SEDC-homework\AdvanceC#\HomeworkClass4\HomeworkClas4\HomeworkClas4\obj\Debug\net6.0\HomeworkClas4.csproj.CoreCompileInputs.cache
